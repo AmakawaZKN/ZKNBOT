@@ -26,7 +26,7 @@ global.github = "https://github.com/AmakawaZKN" //bebas
 global.email = "lynxxnotcounter@hotmail.com" //bebas
 global.region = "Indonesia and japan" //bebas
 global.ownernomer = "628979440862" // nomor wa kalian
-global.ownernomerr = "628979440862" //nmr wa kalian
+global.ownernomerr = "+628979440862" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://postimg.cc/PLWtCgwJ" // maks size 30kb, agar welcome image nya tdk delay
@@ -52,7 +52,7 @@ global.mess = {
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
     wait: '⏳Process...|| Join grup\nhttps://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'HALO @user SELAMAT DATANG DI @subject JANGAN LUPA BACA DESC\n\nJASA RUN BOT ZYKUAN\nHARGA MURMER\nCHAT AJA WA DIBAWAH\nwa.me/628979440862\nBOT AKTIF 24JAM\TANPA INTERNET,BOT TETEP ON'
+	example1: 'HALO @user SELAMAT DATANG DI @subject JANGAN LUPA BACA DESC\n\nJASA RUN BOT ZYKUAN\nHARGA MURMER\nCHAT AJA WA DIBAWAH\nwa.me/6287898307350\nBOT AKTIF 24JAM\TANPA INTERNET,BOT TETEP ON'
 }
 
 let file = require.resolve(__filename)
