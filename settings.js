@@ -52,7 +52,7 @@ global.mess = {
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
     wait: '⏳Process...|| Join grup\nhttps://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'HALO @user SELAMAT DATANG DI @subject JANGAN LUPA BACA DESC\n\nJASA RUN BOT ZYKUAN\nHARGA MURMER\nCHAT AJA WA DIBAWAH\nwa.me/6287898307350\nBOT AKTIF 24JAM\TANPA INTERNET,BOT TETEP ON'
+	example1: 'HALO @user SELAMAT DATANG DI @subject JANGAN LUPA BACA DESC\n\nJASA RUN BOT\nHARGA MURMER\nCHAT AJA WA DIBAWAH\nwa.me/6287898307350\nBOT AKTIF 24JAM\TANPA INTERNET,BOT TETEP ON'
 }
 
 let file = require.resolve(__filename)
